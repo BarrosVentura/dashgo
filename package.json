@@ -25,6 +25,7 @@
     "yup": "^0.32.11"
   },
   "devDependencies": {
+    "@ngneat/falso": "^6.1.0",
     "@types/node": "^17.0.41",
     "@types/react": "^18.0.12",
     "eslint": "8.17.0",
